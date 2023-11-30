@@ -85,8 +85,8 @@ void dbl_ll_set(shash_table_t *ht, shash_node_t *new)
 
 
 /**
- * shash_table_set - To adds an element to a hash table sorted by alphabetic order
- * of keys
+ * shash_table_set - To adds an element to a hash table sorted by
+ * alphabetic order of keys
  * @ht: The sorted hash table to add or update the key/value
  * @key: The key is string used for value lookup, cannot be empty string
  * @value: value associated with key, can be empty string
